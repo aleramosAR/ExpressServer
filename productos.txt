@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Zapatillas para niños",
+		"price": 8990,
+		"thumbnail": "http://www.galeria.com/images/zapatillas.jpg",
+		"id": 1
+	},
+	{
+		"title": "Bolso deportivo",
+		"price": 3500,
+		"thumbnail": "http://www.galeria.com/images/bolso-dep.jpg",
+		"id": 2
+	},
+	{
+		"title": "Raqueta",
+		"price": 7490.9,
+		"thumbnail": "http://www.galeria.com/images/raqueta.jpg",
+		"id": 3
+	},
+	{
+		"title": "Pelota de Basketball",
+		"price": 8990.99,
+		"thumbnail": "http://www.galeria.com/images/pelota-basket.jpg",
+		"id": 4
+	}
+]
